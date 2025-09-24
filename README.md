@@ -1,4 +1,4 @@
-# 📌 SysWeb - Sistema Web de Compra|Venatas desarrollado en LP3, con PHP (MVC + MySQL + Boostrap + AdminLTE)
+# 📌 SysWeb - Sistema Web de Compra|Ventas desarrollado en LP3, con PHP (MVC + MySQL + Boostrap + AdminLTE)
 
 Este proyecto es un **sistema web compra-venta para la materia LP3**, desarrollado en **PHP** utilizando el **patrón MVC**, **MySql** para la base de datos y **Bootstrap + AdminLTE** para el diseño.  
 Incluye un **módulo de autenticación de usuarios** con login/logout, manejo de sesiones, permisos de acceso y un **panel de administración (Dashboard)**.
